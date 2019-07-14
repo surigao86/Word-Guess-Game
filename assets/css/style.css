@@ -1,0 +1,38 @@
+*, 
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body{
+    background: #cccc;
+}
+
+.header-wrap{
+text-align: center;
+color: black;
+font-size: 60px;
+}
+
+.imagewrap img{
+    width: 300px;
+}
+
+.gamestats .brand{
+    font-size: 30px;
+    color: black;
+}
+
+.gamestats .press{
+    font-size: 20px;
+    color: black;
+    font: italic;
+}
+
+.gamestats .current{
+    font-size: 20px;
+}
+
+.gamestats .guessleft{
+    font-size: 20px;
+}
